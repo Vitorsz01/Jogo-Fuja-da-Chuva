@@ -1,9 +1,9 @@
 Vitor Hugo Rocha Lima n°23579
 
-# Snake-Run
+# Fuja da CHuva
 
-O jogo Snake Run consiste em:
-- desviar das cobras
-- coletar o máximo de moedas possíveis
+O jogo consiste em:
+- desviar o Cascão das gotas de chuva e coletar o máximo de moedas possíveis as moedas
+- cada moeda vale 1 ponto, de encostar na gota de água, você morre
 
-O jogador pode movimentar o personagem utilizando o mouse, quando o mesmo for atingido por uma cobra, o jogo termina e volta para a tela inicial.
+O jogador pode movimentar o personagem utilizando o mouse, quando o mesmo for atingido por uma gota, o jogo termina e volta para a tela inicial.
