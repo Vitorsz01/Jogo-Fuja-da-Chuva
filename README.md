@@ -7,3 +7,5 @@ O jogo consiste em:
 - cada moeda vale 1 ponto, de encostar na gota de água, você morre
 
 O jogador pode movimentar o personagem utilizando o mouse, quando o mesmo for atingido por uma gota, o jogo termina e volta para a tela inicial.
+
+Link do Jogo - https://luminous-mousse-901064.netlify.app
