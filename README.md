@@ -1,6 +1,6 @@
 Vitor Hugo Rocha Lima n°23579
 
-# Fuja da CHuva
+# Fuja da Chuva
 
 O jogo consiste em:
 - desviar o Cascão das gotas de chuva e coletar o máximo de moedas possíveis as moedas
